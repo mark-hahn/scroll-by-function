@@ -1,0 +1,5 @@
+'context-menu':
+  '.overlayer':
+      'Scroll Up By Function':   'scroll-by-function:up'
+      'Scroll Down By Function': 'scroll-by-function:down'
+

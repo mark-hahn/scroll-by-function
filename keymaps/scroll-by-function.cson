@@ -1,0 +1,4 @@
+
+'.workspace .editor':
+  'ctrl-shift-up':   'scroll-by-function:up'
+  'ctrl-shift-down': 'scroll-by-function:down'

@@ -1,0 +1,16 @@
+{
+  "name": "scroll-by-function",
+  "main": "./lib/scroll-by-function",
+  "version": "0.13.3",
+  "description": "Scroll the next or previous function to the top of the window",
+  "activationEvents": [
+    "scroll-by-function:up",
+    "scroll-by-function:down"
+  ],
+  "repository": "https://github.com/mark-hahn/scroll-by-function",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.150.0"
+  },
+  "dependencies": {}
+}
